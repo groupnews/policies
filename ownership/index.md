@@ -1,3 +1,8 @@
+---
+title: Group ownership
+description: Everything you need to know about GroupNews group ownership.
+---
+
 # Group ownership
 
 ## Who owns a GroupNews Group?

@@ -1,4 +1,9 @@
-# Use Restrictions
+---
+title: GroupNews usage restrictions policy
+description: You cannot use GroupNews products for these restricted purposes.
+---
+
+# Usage Restrictions
 
 _Last updated: July 31, 2022_
 

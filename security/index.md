@@ -1,3 +1,8 @@
+---
+title: Security overview
+description: The steps we take to keep customer data safe and secure
+---
+
 # Security overview.
 
 ## We protect your data.

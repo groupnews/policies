@@ -1,3 +1,8 @@
+---
+title: Cancellation policy
+description: Everything you need to know about cancelling your GroupNews group.
+---
+
 # Cancellation policy
 
 _Last updated: July 31, 2022_

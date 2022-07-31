@@ -1,3 +1,8 @@
+---
+title: GroupNews taxes
+description: We are required to collect and remit sales tax in a number of jurisdictions.
+---
+
 # Taxes
 
 Taxes are an important part of functional society. Where our products are taxable, we collect and remit consumption tax to governments at the local, state, and/or federal levels. If your billing address is in one of the following jurisdictions, you’ll see an _additional_ line item on your invoice for sales tax or VAT. The subscription prices on our product websites are all exclusive of sales tax and VAT.

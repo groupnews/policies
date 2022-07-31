@@ -1,6 +1,11 @@
-# How to manage the GroupNews account of someone who is incapacitated or has died
+---
+title: Group ownership succession policy
+description: What to do when a GroupNews group owner is incapacitated or has died
+---
 
-First, we are so sorry. Managing administrative aspects is often the last thing you may want to do under these circumstances. We’ve tried to set up a process that makes managing your loved one’s GroupNews account as smooth as possible while also honoring the privacy and security obligations we have to our customers.
+# Group ownership succession
+
+If your group owner is incapacitated or has died, we are so sorry. Managing administrative aspects is often the last thing you may want to do under these circumstances. We’ve tried to set up a process that makes managing your loved one’s GroupNews account as smooth as possible while also honoring the privacy and security obligations we have to our customers.
 
 **If you just want to stop the account from being billed and do not need access to any data**, the fastest way to do this is by canceling the associated credit card directly via the credit card company.
 

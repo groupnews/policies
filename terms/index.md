@@ -1,3 +1,8 @@
+---
+title: Terms of Service
+description: All the terms that you agree to when you sign up for a GroupNews product.
+---
+
 # Terms of Service
 
 _Last updated: July 31, 2022_

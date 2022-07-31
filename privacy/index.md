@@ -1,3 +1,8 @@
+---
+title: Privacy policy
+description: The privacy of your data is extremely important to us at GroupNews. Here’s the rundown of what we collect and why, when we access your information, and your rights.
+---
+
 # Privacy policy
 
 _Last updated: July 31, 2022_
