@@ -14,7 +14,6 @@ We try to make all our policies as clear, fair, and readable as possible.
 - [Use Restrictions policy](/about/policies/usage)
 - [Security overview](/about/policies/security)
 - [Group ownership](/about/policies/ownership)
-- [Taxes](/about/policies/taxes)
 - [How to manage the GroupNews account of someone who is incapacitated or has died](/about/policies/incapacitated)
 - [Ownership and Management Policy](/about/policies/ownership)
 

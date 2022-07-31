@@ -34,7 +34,7 @@ If you violate any of the terms, we may terminate your account.
 
 3. If you are upgrading from a trial plan to a paid plan, we will charge your card immediately and your billing cycle starts on the day of the upgrade. For other upgrades or downgrades in plan level, the new rate starts when you upgrade or downgrade.
 
-4. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities. Where required, we will collect those taxes on behalf of the taxing authority and remit those taxes to the taxing authorities. See our [Taxes policy](/about/policies/taxes) for more details. Otherwise, you are responsible for payment of all taxes, levies, or duties.
+4. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities. Where required, we will collect those taxes on behalf of the taxing authority and remit those taxes to the taxing authorities. Otherwise, you are responsible for payment of all taxes, levies, or duties.
 
 5. We process refunds according to our [Fair Refund policy](/about/policies/refund).
 
