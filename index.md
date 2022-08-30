@@ -19,4 +19,7 @@ We try to make all our policies as clear, fair, and readable as possible.
 
 If you have any questions regarding our policies, feel free to [contact us](/support).
 
-_GroupNews LLC policies are [open source](https://github.com/groupnews/policies), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)_
+---
+
+GroupNews LLC policies are [open source](https://github.com/groupnews/policies), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+{: .font-size:tiny.color:subdued.font-weight:medium}
