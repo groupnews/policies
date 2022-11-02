@@ -5,7 +5,7 @@ description: The privacy of your data is extremely important to us at GroupNews.
 
 # Privacy policy
 
-_Last updated: July 31, 2022_
+_Last updated: November 2, 2022_
 
 The privacy of your data is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data. We promise we have never and will never sell your data.
 
@@ -97,7 +97,7 @@ At GroupNews, we strive to apply the same data rights to all customers, regardle
 - **Right to Complain.** You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority.
 - **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed, including opting out of sale of personal information. (Again: we never have and never will sell your personal data.)
 - **Right to Object.** You have the right, in certain situations, to object to how or why your personal information is processed.
-- **Right to Portability.** You have the right to receive the personal information we have about you and the right to transmit it to another party. If you want to export data from your accounts, you can do so directly by [following these instructions](https://docs.groupnews.com).
+- **Right to Portability.** You have the right to receive the personal information we have about you and the right to transmit it to another party. If you want to export data from your accounts, [contact us](/support) and we'll help you out.
 - **Right to not Be Subject to Automated Decision-Making.** You have the right to object to and prevent any decision that could have a legal or similarly significant effect on you from being made solely based on automated processes. This right is limited if the decision is necessary for performance of any contract between you and us, is allowed by applicable law, or is based on your explicit consent.
 - **Right to Non-Discrimination.** We do not and will not charge you a different amount to use our products, offer you different discounts, or give you a lower level of customer service because you have exercised your data privacy rights. However, the exercise of certain rights may, by virtue of your exercising those rights, prevent you from using our Services.
 
@@ -109,7 +109,7 @@ If you are in the EU or UK, you can contact your data protection authority to fi
 
 ## How we secure your data
 
-All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. In addition, we go to great lengths to secure your data at rest. For more information about how we keep your information secure, please review our [security overview](../security/index.md).
+All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. In addition, we go to great lengths to secure your data at rest. For more information about how we keep your information secure, please review our [security overview](/about/policies/security).
 
 Most data are not encrypted while they live in our database (since they need to be ready to send to you when you need them).
 
