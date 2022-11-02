@@ -33,7 +33,7 @@ Otherwise, we can also gladly reach out to the current group owner at the email 
 
 When none of the above is an option, a court order is required to transfer the group to another user. We will of course readily comply with any court orders to turn data over to the appropriate party.
 
-# What if I have another question about ownership?
+## What if I have another question about ownership?
 
 GroupNews may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the group owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting <support@groupnews.com>.
 

@@ -15,7 +15,7 @@ We try to make all our policies as clear, fair, and readable as possible.
 - [Security overview](/about/policies/security)
 - [Group ownership](/about/policies/ownership)
 - [How to manage the GroupNews account of someone who is incapacitated or has died](/about/policies/incapacitated)
-- [Ownership and Management Policy](/about/policies/ownership)
+- [Ownership and Management Policy](/about/policies/management)
 
 If you have any questions regarding our policies, feel free to [contact us](/support).
 
