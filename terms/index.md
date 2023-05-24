@@ -5,7 +5,7 @@ description: All the terms that you agree to when you sign up for a GroupNews pr
 
 # Terms of Service
 
-_Last updated: July 31, 2022_
+_Last updated: May 24, 2023_
 
 Thank you for using GroupNews! Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
@@ -23,11 +23,11 @@ If you violate any of the terms, we may terminate your account.
 
 ## Account Terms
 
-1. You are responsible for maintaining the security of your account and password. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. We recommend users [set up two-factor authentication](https://docs.groupnews.com/your-account/two-factor/) for added security.
+1. You are responsible for maintaining the security of your user account and password. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. We recommend users [set up two-factor authentication](https://docs.groupnews.com/your-account/two-factor/) for added security.
 
 2. You may not use the Services for any purpose outlined in our [Use Restrictions policy](/about/policies/usage).
 
-3. You are responsible for all content posted and activity that occurs under your account. That includes content posted by others who either: (a) have access to your login credentials; or (b) have their own logins under your account.
+3. You are responsible for all content posted and activity that occurs under your account. That includes content posted by others who either: (a) have access to your login credentials; or (b) have their own logins under and are members of any GroupNews Group you own.
 
 4. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
 
@@ -47,13 +47,15 @@ If you violate any of the terms, we may terminate your account.
 
 1. You are solely responsible for properly canceling your account. Within each of our Services, we provide a simple no-questions-asked cancellation page. You can find instructions on how to cancel your account in our [Cancellation policy](/about/policies/cancellation). An email request to cancel your account is not automatically considered cancellation. If you need help cancelling your account, you can always write <support@groupnews.com>.
 
-2. All of your content will be inaccessible from the Services immediately upon account cancellation. Within 30 days, all content will be permanently deleted from active systems and logs. Within 60 days, all content will be permanently deleted from our backups. We cannot recover this information once it has been permanently deleted.
+2. When you cancel your user account, but Groups you were a member of still exist, any content you posted while an active member of those Groups will remain accessible to other members of those Groups as long as the Groups continue to be active.
 
-3. If you cancel the Service before the end of your current paid up term, your account will be inaccessible from the Services immediately upon account cancellation, and you will not be charged again. See our [Fair Refund policy](/about/policies/refund) for more details.
+3. When a Group is deleted by its owner, your content in that Group will at that point be inaccessible from the Services immediately upon Group deletion. In that case, within 30 days, all content will be permanently deleted from active systems and logs. Within 60 days, all content will be permanently deleted from our backups. We cannot recover this information once it has been permanently deleted.
 
-4. We have the right to suspend or terminate your account and refuse any and all current or future use of our Services for any reason at any time. Suspension means you and any other users on your account will not be able to access the account or any content in the account.Termination will furthermore result in the deletion of your account or your access to your account, and the forfeiture and relinquishment of all content in your account. We also reserve the right to refuse the use of the Services to anyone for any reason at any time. There are some things we staunchly stand against and this clause is how we exercise that stance. For more details, see our [Use Restrictions policy](/about/policies/usage).
+4. If you cancel the Service before the end of your current paid up term, your account will be inaccessible from the Services immediately upon account cancellation, and you will not be charged again. See our [Fair Refund policy](/about/policies/refund) for more details.
 
-5. Verbal, physical, written or other abuse (including threats of abuse or retribution) of Company employee or officer will result in immediate account termination.
+5. We have the right to suspend or terminate your account and refuse any and all current or future use of our Services for any reason at any time. Suspension means you and any other users on your account will not be able to access the account or any content in the account. Termination will furthermore result in the deletion of your account or your access to your account, and the forfeiture and relinquishment of all content in your account. We also reserve the right to refuse the use of the Services to anyone for any reason at any time. There are some things we staunchly stand against and this clause is how we exercise that stance. For more details, see our [Use Restrictions policy](/about/policies/usage).
+
+6. Verbal, physical, written or other abuse (including threats of abuse or retribution) of Company employee or officer will result in immediate account termination.
 
 ## Modifications to the Service and Prices
 
@@ -74,7 +76,7 @@ If you violate any of the terms, we may terminate your account.
    - **On the rare occasions when an error occurs that stops an automated process partway through**. We get automated alerts when such errors occur. When we can fix the issue and restart automated processing without looking at any personal data, we do. In rare cases, we have to look at a minimum amount of personal data to fix the issue. In these rare cases, we aim to fix the root cause as much as possible to avoid the errors from reoccurring.
    - **To safeguard GroupNews**. We'll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an abuse report investigation.
    - **To the extent required by applicable law**. As a US company with all data infrastructure located in the US, we only preserve or share customer data if compelled by a US government authority with a legally binding order or proper request under the Stored Communications Act. If a non-US authority approaches GroupNews for assistance, our default stance is to refuse unless the order has been approved by the US government, which compels us to comply through procedures outlined in an established mutual legal assistance treaty or agreement mechanism. If GroupNews is audited by a tax authority, we only share the bare minimum billing information needed to complete the audit.
-5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. You can see a list of all subprocessors who handle personal data for GroupNews here.
+5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. You can see a list of all subprocessors who handle personal data for GroupNews in [our privacy policy](/about/policies/privacy).
 6. Under the California Consumer Privacy Act (“CCPA”), GroupNews is a “service provider”, not a “business” or “third party”, with respect to your use of the Services. That means we process any data you share with us only for the purpose you signed up for and as described in these Terms of Service, Privacy policy, and other policies. We do not retain, use, disclose, or sell any of that information for any other commercial purposes unless we have your explicit permission. And on the flip-side, you agree to comply with your requirements under the CCPA and not use GroupNews’ Services in a way that violates the regulations.
 
 ## Copyright and Content Ownership

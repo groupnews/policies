@@ -5,7 +5,7 @@ description: The privacy of your data is extremely important to us at GroupNews.
 
 # Privacy policy
 
-_Last updated: November 2, 2022_
+_Last updated: May 24, 2023_
 
 The privacy of your data is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data. We promise we have never and will never sell your data.
 
@@ -27,7 +27,7 @@ If you sign up for a paid GroupNews product, you will be asked to provide your p
 
 ### Product interactions
 
-We store on our servers the content that you upload or receive or maintain in your GroupNews product accounts. This is so you can use our products as intended, for example, to create newsletters in GroupNews. We keep this content as long as your account is active. If you delete your account, we’ll delete the content within 60 days.
+We store on our servers the content that you upload or receive or maintain in your GroupNews product accounts. This is so you can use our products as intended, for example, to create posts and stories in GroupNews. We keep this content as long as your account is active. If you delete your account, we’ll delete the content within 60 days.
 
 ### Geolocation data
 
@@ -79,8 +79,9 @@ We use third party subprocessors, such as cloud computing providers and customer
 
 The following is a list of personal data subprocessors we use. These subprocessors are all located in the United States:
 
-[Amazon Web Services](https://aws.amazon.com). Cloud services provider.  
-[Digital Ocean](https://digitalocean.com). Cloud services provider.  
+[Amazon Web Services](https://aws.amazon.com). Cloud services provider.
+[Digital Ocean](https://digitalocean.com). Cloud services provider.
+[WorkOS](https://workos.com). Single Sign-On and Directory Sync services for Enterprise plans.
 [ImgIX](https://imgix.com). Image processing provider.  
 [Rollbar](https://rollbar.com). Infrastructure and application monitoring.  
 [Better Stack](https://betterstack.com). Infrastructure and application monitoring.

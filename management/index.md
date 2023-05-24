@@ -13,9 +13,9 @@ The management of the group is done by Group administrators. The Group owner i
 
 Group administrators can:
 
-- **Access all data in a group:** that means they have the ability to read all stories and newsletters within the GroupNews group.
+- **Access all data in a group:** that means they have the ability to read all stories, events, and posts within all channels of the GroupNews group.
 - **Manage all aspects of the group’s plan:** including updating billing information, and adding more users.
-- **Configure and manage all technical aspects of a group’s setup:** including setting up newsletters, changing the group domain.
+- **Configure and manage all technical aspects of a group’s setup:** including setting up channels, enterprise features, and change the Group settings, like the Group name, description, and URL.
 - **Change Group Administrators:** We encourage customers to designate someone you trust to help co-manage your organization’s GroupNews group in case the primary Group Administrator is out of office. Group Administrators can add or remove other co-adminstrators directly in GroupNews. The one exception is: it is not possible within the app to revoke Group Administrator permissions from the primary Group owner who set up the group. In order to make changes to this primary Group Administrator, please [email us](/support) with the request.
 
 ## What can Group Administrators NOT do?
