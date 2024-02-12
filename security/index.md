@@ -38,7 +38,9 @@ We utilize both in-transit and at-rest encryption for the GroupNews application.
 
 Any files which you upload to GroupNews are stored and encrypted at rest. Our file storage system, AWS S3, uses AES-256 encryption.
 
-Our application databases are not encrypted at rest—the information you add to the applications is active in our databases and subject to the same protection and monitoring as the rest of our systems. All user passwords are hashed and salted using Bcrypt with a cost factor of 11. Our backups of your data are encrypted using GPG. Additionally, our databases protected by firewalls, with only white-listed servers able to access them.
+Our application databases are encrypted at rest using LUKS, utilizing default mode aes-xts-plain64:sha256, with a randomly generated with a 512-bit ephemeral key per each instance and each volume. All user passwords are hashed and salted using Bcrypt with a cost factor of 11. Additionally, our databases protected by firewalls, with only white-listed servers able to access them.
+
+Our databases are backed up daily, and those backups are encrypted with a randomly generated key per file. These keys are in turn encrypted with a randomly generated RSA key-encryption key-pair and stored in the header section of each backup segment. The file encryption is performed with AES-256 in CTR mode with HMAC-SHA256 for integrity protection. The key lengths are 256-bit for block encryption, 512-bit for integrity protection, and 3072-bits for the RSA key.
 
 ### Virus Scanning
 
